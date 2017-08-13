@@ -1,2 +1,2 @@
 # Open-Source-Records
-hi
+hi this project contains code school assignments and tacos 
