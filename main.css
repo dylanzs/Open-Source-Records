@@ -91,6 +91,7 @@ ol {
   background-color: #ffffff;
 }
 .band-list {
+  list-style-type: none;
   padding-left: 0;
 }
 .band-list h2 {
@@ -105,8 +106,6 @@ ol {
   border: 1px solid #555555;
   background-color: #ffffff;
   height: 120px;
-  list-style-type: none;
-
 }
 .header img {
   margin: 0 auto 15px auto;
